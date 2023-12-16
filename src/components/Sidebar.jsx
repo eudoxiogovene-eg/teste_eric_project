@@ -76,9 +76,7 @@ export function Sidebar(){
                         <Link href="/qrcode">
                             <li className="p-2 hover:bg-cor3 hover:cursor-pointer">gerar qrcode</li>
                         </Link>
-                        <Link href="/scanner">
-                        <li className="p-2 hover:bg-cor3 hover:cursor-pointer">ler qrcode</li>
-                        </Link>
+                       
                         
                     </ul>
                 </li>
